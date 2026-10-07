@@ -4,8 +4,6 @@ A Chrome extension that remembers where you were reading in a long ChatGPT chat,
 
 Built with Manifest V3, JavaScript and CSS.
 
-<!-- Add your demo GIF or video link here -->
-
 ## How to install
 
 This extension isn't on the Chrome Web Store, so you install it manually. It takes about a minute.
@@ -56,7 +54,3 @@ Download the new ZIP, replace your old folder, then go to `chrome://extensions` 
 - Manifest V3
 - Content script (JavaScript)
 - CSS for the button
-
-## License
-
-MIT
